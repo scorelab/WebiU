@@ -68,7 +68,7 @@ And, it is also deployed on chromatic - https://610d0e8b03a01e003b2f5070-rllntdh
 
 ## Contributing to the Project
 
-We value our contributers a lot and would appreciate contributions to our project. Please make sure to follow our contributing guidelines.
+We value our contributers a lot and would appreciate contributions to our project. Please make sure to follow our [contributing guidelines](CONTRIBUTING.md).
 Please clearly explain any bugs, issues or feature requests (use screenshots wherever applicable) before opening any issue or pull request.
 
 ### May the source be with you!
