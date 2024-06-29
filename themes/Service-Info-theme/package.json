@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "workspaces": ["service-info-theme", "site"],
+    "scripts": {
+      "develop": "yarn workspace site develop"
+    }
+  }
